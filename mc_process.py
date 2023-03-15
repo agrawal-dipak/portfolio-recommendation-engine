@@ -24,9 +24,9 @@ client =  MongoClient("mongodb+srv://mongouser:market101@cluster0.fgigdzs.mongod
 db = client['mpt_optimizer']
 collection = db['stock_daily_price']
 
-storage_account_key = "qqf/6ZA1lakLtIA2UTDnf24HpnKWGqo8MHkFIrnLLMQORfCb3L0HkdIn7HFgqmRfi2YbiwmiEb/r+AStdIeCiw=="
+storage_account_key = ""
 storage_account_name = "storageopt1"
-connection_string = "DefaultEndpointsProtocol=https;AccountName=storageopt1;AccountKey=qqf/6ZA1lakLtIA2UTDnf24HpnKWGqo8MHkFIrnLLMQORfCb3L0HkdIn7HFgqmRfi2YbiwmiEb/r+AStdIeCiw==;EndpointSuffix=core.windows.net"
+connection_string = ""
 container_name = "images"
 
 FULLY_QUALIFIED_NAMESPACE = "market.servicebus.windows.net"
