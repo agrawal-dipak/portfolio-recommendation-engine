@@ -1,0 +1,503 @@
+Ticker,Company,Sector,PE Ratio,Market Cap(in Billion),Market Cap
+MRO,Marathon Oil Corporation,Energy Minerals,2262.602,17.38815611,Large Cap
+MO,"Altria Group, Inc.",Consumer Non-Durables,522.1622,81.36463911,Large Cap
+ANET,"Arista Networks, Inc.",Electronic Technology,471.4286,35.80700109,Large Cap
+MTB,M&T Bank Corporation,Finance,397.9184,25.83194806,Large Cap
+CI,Cigna Corporation,Health Services,332.8684,94.8463572,Large Cap
+CPT,Camden Property Trust,Finance,195.6537,12.60546203,Large Cap
+BIO,"Bio-Rad Laboratories, Inc.",Health Technology,192.2144,13.5549656,Large Cap
+XRAY,DENTSPLY SIRONA Inc.,Health Technology,188.7779,7.736828247,Medium Cap
+VFC,V.F. Corporation,Consumer Non-Durables,149.0847,11.94840761,Large Cap
+HSIC,"Henry Schein, Inc.",Distribution Services,142.7054,10.77738813,Large Cap
+CTAS,Cintas Corporation,Consumer Services,139.0821,45.34610602,Large Cap
+GE,General Electric Company,Producer Manufacturing,121.7975,86.16780631,Large Cap
+DHI,"D.R. Horton, Inc.",Consumer Durables,117.0839,32.93533662,Large Cap
+JNPR,"Juniper Networks, Inc.",Electronic Technology,115.5059,10.2851653,Large Cap
+KMB,Kimberly-Clark Corporation,Consumer Non-Durables,110.3589,45.97992501,Large Cap
+META,"Meta Platforms, Inc.",Technology Services,105.8978,363.4021334,Large Cap
+EXPD,"Expeditors International of Washington, Inc.",Transportation,101.0471,17.55433403,Large Cap
+WEC,"WEC Energy Group, Inc.",Utilities,94.26752,30.55298972,Large Cap
+MKTX,"MarketAxess Holdings, Inc.",Finance,94.19106,12.17965257,Large Cap
+MCK,McKesson Corporation,Distribution Services,93.59519,54.00063128,Large Cap
+AES,The AES Corporation,Utilities,93.53965,18.49552943,Large Cap
+MSFT,Microsoft Corporation,Technology Services,87.31864,1777.966349,Large Cap
+CMCSA,Comcast Corporation,Consumer Services,86.00884,167.2726778,Large Cap
+CMA,Comerica Incorporated,Finance,82.41962,9.023931955,Medium Cap
+FFIV,"F5, Inc.",Technology Services,82.26762,8.891088863,Medium Cap
+KMX,CarMax Inc,Retail Trade,72.20932,10.56861115,Large Cap
+ESS,"Essex Property Trust, Inc.",Finance,71.8182,14.27821614,Large Cap
+TYL,"Tyler Technologies, Inc.",Technology Services,70.73114,13.18152671,Large Cap
+CTRA,Coterra Energy Inc.,Energy Minerals,70.51956,20.01918544,Large Cap
+IVZ,Invesco Ltd,Finance,69.48472,8.900134619,Medium Cap
+FOXA,Fox Corporation,Consumer Services,68.818,17.00933152,Large Cap
+VICI,VICI Properties Inc.,Finance,68.07198,32.76459101,Large Cap
+EIX,Edison International,Utilities,65.20579,26.1393217,Large Cap
+NRG,"NRG Energy, Inc.",Utilities,61.71108,7.515132392,Medium Cap
+CDW,CDW Corporation,Technology Services,60.22945,26.18326371,Large Cap
+SJM,J.M. Smucker Company (The) New,Consumer Non-Durables,59.29328,16.56637048,Large Cap
+INCY,Incyte Corporation,Health Technology,58.88667,17.89815039,Large Cap
+SEE,Sealed Air Corporation,Process Industries,56.42608,7.90264028,Medium Cap
+KO,Coca-Cola Company (The),Consumer Non-Durables,55.91804,264.7034779,Large Cap
+CTLT,"Catalent, Inc.",Health Technology,55.19385,8.881203017,Medium Cap
+CMG,"Chipotle Mexican Grill, Inc.",Consumer Services,54.12943,41.92734839,Large Cap
+FE,FirstEnergy Corp.,Utilities,53.71689,24.63684435,Large Cap
+TTWO,"Take-Two Interactive Software, Inc.",Technology Services,53.56163,17.50185642,Large Cap
+ES,Eversource Energy (D/B/A),Utilities,53.10009,29.65140831,Large Cap
+INTC,Intel Corporation,Electronic Technology,51.48624,125.0068338,Large Cap
+OGN,Organon & Co.,Health Technology,50.79547,7.981954985,Medium Cap
+BAX,Baxter International Inc.,Health Technology,50.14623,22.73080506,Large Cap
+TAP,Molson Coors Beverage Company,Consumer Non-Durables,49.04531,10.98297638,Large Cap
+LRCX,Lam Research Corporation,Producer Manufacturing,49.01858,64.10375025,Large Cap
+CRL,"Charles River Laboratories International, Inc.",Commercial Services,48.64098,11.8165675,Large Cap
+NWSA,News Corporation,Consumer Services,48.48587,11.20991032,Large Cap
+AKAM,"Akamai Technologies, Inc.",Technology Services,48.04366,13.93795687,Large Cap
+ROP,"Roper Technologies, Inc.",Technology Services,48.01051,47.85387011,Large Cap
+TECH,Bio-Techne Corp,Health Technology,47.20506,12.89818585,Large Cap
+DOV,Dover Corporation,Producer Manufacturing,46.96769,20.05657976,Large Cap
+RL,Ralph Lauren Corporation,Distribution Services,46.64785,7.881330616,Medium Cap
+A,"Agilent Technologies, Inc.",Health Technology,46.1961,46.33231227,Large Cap
+ITW,Illinois Tool Works Inc.,Producer Manufacturing,45.31637,71.36553993,Large Cap
+AAPL,Apple Inc.,Electronic Technology,45.16039,2122.302103,Large Cap
+MLM,"Martin Marietta Materials, Inc.",Non-Energy Minerals,45.12211,21.82984551,Large Cap
+DPZ,Domino’s Pizza Inc,Consumer Services,44.90219,11.9526161,Large Cap
+PNC,"PNC Financial Services Group, Inc. (The)",Finance,43.90427,68.08832173,Large Cap
+FTV,Fortive Corporation,Electronic Technology,43.89136,23.7334586,Large Cap
+REGN,"Regeneron Pharmaceuticals, Inc.",Health Technology,43.60457,77.80508777,Large Cap
+SWKS,"Skyworks Solutions, Inc.",Electronic Technology,43.4151,16.21630697,Large Cap
+PAYX,"Paychex, Inc.",Technology Services,43.27842,43.2019158,Large Cap
+BKNG,Booking Holdings Inc. Common Stock,Consumer Services,42.76151,87.53872509,Large Cap
+URI,"United Rentals, Inc.",Finance,42.51692,27.15298517,Large Cap
+LYB,LyondellBasell Industries NV,Process Industries,42.31853,30.5012417,Large Cap
+MSCI,MSCI Inc,Technology Services,41.5986,40.30290977,Large Cap
+FITB,Fifth Third Bancorp,Finance,41.37807,23.9552277,Large Cap
+BBY,"Best Buy Co., Inc.",Retail Trade,41.00299,19.11724882,Large Cap
+EQT,EQT Corporation,Energy Minerals,40.76205,12.83192747,Large Cap
+UHS,"Universal Health Services, Inc.",Health Services,40.32518,9.379967097,Medium Cap
+SNPS,"Synopsys, Inc.",Technology Services,40.26667,50.7701671,Large Cap
+AVY,Avery Dennison Corporation,Process Industries,40.11706,15.62540056,Large Cap
+TEL,TE Connectivity Ltd. New Switzerland Registered Shares,Electronic Technology,39.94101,39.37782858,Large Cap
+GLW,Corning Incorporated,Electronic Technology,39.65636,30.90594938,Large Cap
+VTR,"Ventas, Inc.",Finance,39.36755,20.45723035,Large Cap
+PSA,Public Storage,Finance,39.30437,52.00301429,Large Cap
+AWK,"American Water Works Company, Inc.",Utilities,38.84325,28.98700043,Large Cap
+AFL,AFLAC Incorporated,Finance,38.49981,44.64442153,Large Cap
+LLY,Eli Lilly and Company,Health Technology,38.07483,354.4960183,Large Cap
+BA,Boeing Company (The),Electronic Technology,38.07199,127.7311271,Large Cap
+ON,ON Semiconductor Corporation,Electronic Technology,37.84424,28.07726146,Large Cap
+WELL,Welltower Inc.,Finance,37.72451,34.0687939,Large Cap
+MPWR,"Monolithic Power Systems, Inc.",Electronic Technology,37.61047,18.7599021,Large Cap
+UNH,UnitedHealth Group Incorporated,Health Services,37.51941,463.1288111,Large Cap
+CAH,"Cardinal Health, Inc.",Distribution Services,37.11455,20.05849534,Large Cap
+TSCO,Tractor Supply Company,Retail Trade,37.024,24.38365655,Large Cap
+JCI,Johnson Controls International plc,Producer Manufacturing,36.93675,46.95680788,Large Cap
+EXR,Extra Space Storage Inc,Finance,36.79245,20.63864615,Large Cap
+HPE,Hewlett Packard Enterprise Company,Electronic Technology,36.6993,20.91925133,Large Cap
+PG,Procter & Gamble Company (The),Consumer Non-Durables,36.60612,355.0042684,Large Cap
+BF.B,Brown Forman Inc,Consumer Non-Durables,36.53104,31.44548628,Large Cap
+EBAY,eBay Inc.,Retail Trade,36.40421,25.19566021,Large Cap
+EQR,Equity Residential,Finance,36.39698,23.24957181,Large Cap
+ENPH,"Enphase Energy, Inc.",Electronic Technology,36.21796,32.85544889,Large Cap
+RE,"Everest Re Group, Ltd.",Finance,36.2055,13.6924874,Large Cap
+KEY,KeyCorp,Finance,36.14345,17.11066157,Large Cap
+EL,"Estee Lauder Companies, Inc. (The)",Consumer Non-Durables,36.13002,93.57403176,Large Cap
+GEN,Gen Digital Inc.,Technology Services,36.10807,14.303862,Large Cap
+EPAM,"EPAM Systems, Inc.",Technology Services,36.0906,19.61152397,Large Cap
+ISRG,"Intuitive Surgical, Inc.",Health Technology,36.04048,90.79862765,Large Cap
+UDR,"UDR, Inc.",Finance,35.8642,13.17142006,Large Cap
+PRU,"Prudential Financial, Inc.",Finance,35.06773,36.65279944,Large Cap
+CEG,Constellation Energy Corporation,Utilities,35.00679,27.58068965,Large Cap
+TXN,Texas Instruments Incorporated,Electronic Technology,34.92674,161.6657543,Large Cap
+DG,Dollar General Corporation,Retail Trade,34.7452,51.99455461,Large Cap
+BR,"Broadridge Financial Solutions, Inc.",Technology Services,34.22104,17.05884538,Large Cap
+ADSK,"Autodesk, Inc.",Technology Services,34.06709,43.14487112,Large Cap
+NCLH,Norwegian Cruise Line Holdings Ltd.,Consumer Services,33.94842,6.468430106,Medium Cap
+ETN,"Eaton Corporation, PLC",Producer Manufacturing,33.9442,65.50517168,Large Cap
+TMO,Thermo Fisher Scientific Inc,Health Technology,33.86199,228.0773954,Large Cap
+BIIB,Biogen Inc.,Health Technology,33.63569,41.48392248,Large Cap
+VMC,Vulcan Materials Company (Holding Company),Non-Energy Minerals,33.45819,24.0308891,Large Cap
+KEYS,Keysight Technologies Inc.,Electronic Technology,33.36199,31.81128719,Large Cap
+MCD,McDonald’s Corporation,Consumer Services,33.26319,195.3301288,Large Cap
+CSCO,"Cisco Systems, Inc.",Electronic Technology,33.0431,201.2970483,Large Cap
+TSN,"Tyson Foods, Inc.",Consumer Non-Durables,32.97156,22.74399485,Large Cap
+EQIX,"Equinix, Inc.",Technology Services,32.9183,67.12159988,Large Cap
+PM,Philip Morris International Inc,Consumer Non-Durables,32.76196,157.2525221,Large Cap
+PPL,PPL Corporation,Utilities,32.59843,22.61969762,Large Cap
+LUV,Southwest Airlines Company,Transportation,32.53603,21.95101269,Large Cap
+SNA,Snap-On Incorporated,Consumer Durables,32.50317,13.19510818,Large Cap
+TDG,Transdigm Group Inc.,Electronic Technology,32.4352,36.98560321,Large Cap
+MU,"Micron Technology, Inc.",Electronic Technology,32.38599,62.49167944,Large Cap
+ED,"Consolidated Edison, Inc.",Utilities,32.21333,34.60977372,Large Cap
+PSX,Phillips 66,Energy Minerals,31.88656,48.61495174,Large Cap
+TFX,Teleflex Incorporated,Health Technology,31.69064,11.18906024,Large Cap
+AIZ,"Assurant, Inc.",Finance,31.34872,6.656759995,Medium Cap
+TER,"Teradyne, Inc.",Electronic Technology,31.15227,14.97439463,Large Cap
+DLTR,"Dollar Tree, Inc.",Retail Trade,31.02261,32.4300672,Large Cap
+IBM,International Business Machines Corporation,Technology Services,30.7367,131.5956008,Large Cap
+SBAC,SBA Communications Corporation,Finance,30.43896,33.08495974,Large Cap
+AMP,"Ameriprise Financial, Inc.",Finance,30.36356,35.24218495,Large Cap
+BRO,"Brown & Brown, Inc.",Finance,30.28313,17.46349201,Large Cap
+CB,Chubb Limited,Finance,30.22986,93.63534863,Large Cap
+PYPL,"PayPal Holdings, Inc.",Commercial Services,30.04313,90.95140931,Large Cap
+IRM,Iron Mountain Incorporated (Delaware),Finance,29.89061,15.16073658,Large Cap
+VRSK,"Verisk Analytics, Inc.",Technology Services,29.75964,28.61274124,Large Cap
+LKQ,LKQ Corporation,Consumer Durables,29.73609,15.49614929,Large Cap
+BBWI,"Bath & Body Works, Inc.",Retail Trade,29.66931,10.53905005,Large Cap
+RJF,"Raymond James Financial, Inc.",Finance,29.60984,24.48068983,Large Cap
+L,Loews Corporation,Finance,29.5988,14.21713187,Large Cap
+GPN,Global Payments Inc.,Commercial Services,29.59408,29.29796458,Large Cap
+WAB,Westinghouse Air Brake Technologies Corporation,Producer Manufacturing,29.3115,18.83969084,Large Cap
+MPC,Marathon Petroleum Corporation,Energy Minerals,29.23768,56.71265145,Large Cap
+MNST,Monster Beverage Corporation,Consumer Non-Durables,29.16403,52.19523546,Large Cap
+NDAQ,"Nasdaq, Inc.",Finance,29.07263,30.94569911,Large Cap
+WY,Weyerhaeuser Company,Finance,29.02198,23.64501375,Large Cap
+DE,Deere & Company,Producer Manufacturing,29.00963,130.0582785,Large Cap
+PKI,"PerkinElmer, Inc.",Health Technology,28.95542,16.69391319,Large Cap
+INTU,Intuit Inc.,Technology Services,28.73428,111.4430914,Large Cap
+NVDA,NVIDIA Corporation,Electronic Technology,28.6855,406.1706015,Large Cap
+GNRC,Generac Holdlings Inc.,Producer Manufacturing,28.63487,7.194119794,Medium Cap
+WTW,Willis Towers Watson Public Limited Company,Finance,28.63402,27.57136784,Large Cap
+VRTX,Vertex Pharmaceuticals Incorporated,Health Technology,28.55018,76.04484718,Large Cap
+MOS,Mosaic Company (The),Process Industries,28.43363,15.99579807,Large Cap
+HRL,Hormel Foods Corporation,Consumer Non-Durables,28.36542,25.4251171,Large Cap
+XYL,Xylem Inc.,Producer Manufacturing,28.32083,20.93993967,Large Cap
+HUM,Humana Inc.,Health Services,28.24499,62.57727272,Large Cap
+PCAR,PACCAR Inc.,Producer Manufacturing,28.21096,35.26015144,Large Cap
+NOC,Northrop Grumman Corporation,Electronic Technology,28.16369,75.10605516,Large Cap
+WHR,Whirlpool Corporation,Consumer Durables,28.1491,8.397293669,Medium Cap
+O,Realty Income Corporation,Finance,28.01708,41.73709194,Large Cap
+CARR,Carrier Global Corporation,Producer Manufacturing,27.99343,37.84083173,Large Cap
+STLD,"Steel Dynamics, Inc.",Non-Energy Minerals,27.95947,19.37781713,Large Cap
+UAL,"United Airlines Holdings, Inc.",Transportation,27.93656,16.77139879,Large Cap
+EVRG,"Evergy, Inc.",Utilities,27.88614,14.67196577,Large Cap
+CNP,"CenterPoint Energy, Inc (Holding Co)",Utilities,27.87493,19.55967228,Large Cap
+DVN,Devon Energy Corporation,Energy Minerals,27.70574,41.85641098,Large Cap
+BEN,"Franklin Resources, Inc.",Finance,27.66817,14.90183281,Large Cap
+WFC,Wells Fargo & Company,Finance,27.66502,163.2033351,Large Cap
+PARA,Paramount Global,Consumer Services,27.57625,13.27363576,Large Cap
+ETR,Entergy Corporation,Utilities,27.51897,21.74019326,Large Cap
+MTCH,"Match Group, Inc.",Technology Services,27.38422,12.86483895,Large Cap
+MDLZ,"Mondelez International, Inc.",Consumer Non-Durables,27.18187,91.168696,Large Cap
+LOW,"Lowe’s Companies, Inc.",Retail Trade,27.15771,127.1447602,Large Cap
+AXP,American Express Company,Finance,27.15395,115.7612833,Large Cap
+AEE,Ameren Corporation,Utilities,27.07699,23.20236622,Large Cap
+AMD,"Advanced Micro Devices, Inc.",Electronic Technology,27.02848,114.1548153,Large Cap
+ADI,"Analog Devices, Inc.",Electronic Technology,26.98738,85.9029434,Large Cap
+AIG,"American International Group, Inc. New",Finance,26.89691,47.31296538,Large Cap
+CTSH,Cognizant Technology Solutions Corporation,Technology Services,26.80916,33.45628547,Large Cap
+ALLE,Allegion plc,Producer Manufacturing,26.56001,9.971265492,Medium Cap
+OKE,"ONEOK, Inc.",Industrial Services,26.40637,31.70243724,Large Cap
+SRE,DBA Sempra,Utilities,26.33387,50.58566758,Large Cap
+SEDG,"SolarEdge Technologies, Inc.",Producer Manufacturing,26.25126,17.29722741,Large Cap
+T,AT&T Inc.,Communications,26.1168,138.3350689,Large Cap
+MSI,"Motorola Solutions, Inc.",Electronic Technology,26.07659,44.26035799,Large Cap
+C,"Citigroup, Inc.",Finance,26.06526,95.08010942,Large Cap
+BSX,Boston Scientific Corporation,Distribution Services,26.01939,66.90325855,Large Cap
+KDP,Keurig Dr Pepper Inc.,Consumer Non-Durables,25.84468,50.37605549,Large Cap
+PEG,Public Service Enterprise Group Incorporated,Utilities,25.73234,31.32905448,Large Cap
+AON,Aon plc,Finance,25.70746,65.33863582,Large Cap
+NTAP,"NetApp, Inc.",Electronic Technology,25.53886,13.80747464,Large Cap
+GOOG,Alphabet Inc.,Technology Services,25.52836,1184.242673,Large Cap
+NFLX,"Netflix, Inc.",Technology Services,25.51987,146.9146224,Large Cap
+MA,Mastercard Incorporated,Commercial Services,25.46773,365.1720342,Large Cap
+PFE,"Pfizer, Inc.",Health Technology,25.4068,267.8112274,Large Cap
+DXCM,"DexCom, Inc.",Health Technology,25.30256,41.38369449,Large Cap
+ADP,"Automatic Data Processing, Inc.",Technology Services,25.19841,101.3258335,Large Cap
+MOH,Molina Healthcare Inc,Health Services,25.06039,17.4703601,Large Cap
+PFG,Principal Financial Group Inc,Finance,25.05126,21.62017238,Large Cap
+LMT,Lockheed Martin Corporation,Electronic Technology,24.96814,121.0100345,Large Cap
+ALL,Allstate Corporation (The),Finance,24.86692,36.35227691,Large Cap
+TGT,Target Corporation,Retail Trade,24.85179,73.53453674,Large Cap
+YUM,"Yum! Brands, Inc.",Consumer Services,24.47402,36.3067489,Large Cap
+UPS,"United Parcel Service, Inc.",Transportation,24.34231,158.2189852,Large Cap
+MHK,"Mohawk Industries, Inc.",Non-Energy Minerals,24.26804,7.568173937,Medium Cap
+PXD,Pioneer Natural Resources Company,Energy Minerals,24.23572,56.8288648,Large Cap
+COP,ConocoPhillips,Energy Minerals,24.18134,149.727916,Large Cap
+AAP,Advance Auto Parts Inc.,Retail Trade,24.16443,9.017823109,Medium Cap
+JNJ,Johnson & Johnson,Health Technology,24.16294,454.9201113,Large Cap
+ORLY,"O’Reilly Automotive, Inc.",Retail Trade,24.06995,50.73967401,Large Cap
+EXPE,"Expedia Group, Inc.",Consumer Services,24.06616,16.08594575,Large Cap
+GL,Globe Life Inc.,Finance,23.89465,11.80665971,Large Cap
+FSLR,"First Solar, Inc.",Electronic Technology,23.75714,19.0664133,Large Cap
+FIS,"Fidelity National Information Services, Inc.",Commercial Services,23.44544,41.10932796,Large Cap
+MAA,"Mid-America Apartment Communities, Inc.",Finance,23.23843,18.53290639,Large Cap
+STX,Seagate Technology Holdings PLC,Electronic Technology,23.06593,11.92686853,Large Cap
+TMUS,"T-Mobile US, Inc.",Communications,23.01674,186.5111569,Large Cap
+BKR,Baker Hughes Company,Industrial Services,22.99902,31.7667291,Large Cap
+DUK,Duke Energy Corporation (Holding Company),Utilities,22.8955,80.91819456,Large Cap
+SBNY,Signature Bank,Finance,22.78182,7.36509736,Medium Cap
+GPC,Genuine Parts Company,Distribution Services,22.75325,23.84920905,Large Cap
+FMC,FMC Corporation,Process Industries,22.67995,16.29747128,Large Cap
+FTNT,"Fortinet, Inc.",Electronic Technology,22.67858,37.8118247,Large Cap
+QRVO,"Qorvo, Inc.",Electronic Technology,22.6549,10.10447525,Large Cap
+FLT,"FleetCor Technologies, Inc.",Commercial Services,22.50745,14.34630889,Large Cap
+ZBH,"Zimmer Biomet Holdings, Inc.",Health Technology,22.46633,25.85381337,Large Cap
+DTE,DTE Energy Company,Utilities,22.3834,24.55006778,Large Cap
+SBUX,Starbucks Corporation,Consumer Services,22.36152,121.4946334,Large Cap
+WDC,Western Digital Corporation,Electronic Technology,22.36113,12.0580039,Large Cap
+NDSN,Nordson Corporation,Producer Manufacturing,22.29004,13.84052507,Large Cap
+AAL,"American Airlines Group, Inc.",Transportation,22.18523,10.93783174,Large Cap
+VTRS,Viatris Inc.,Health Technology,22.0945,14.13990191,Large Cap
+APH,Amphenol Corporation,Electronic Technology,22.07321,48.14314947,Large Cap
+RMD,ResMed Inc.,Health Technology,22.05488,31.34750278,Large Cap
+ACN,Accenture plc,Technology Services,21.87608,186.8769862,Large Cap
+OTIS,Otis Worldwide Corporation,Producer Manufacturing,21.8755,34.53498497,Large Cap
+BRK.B,Berkshire Hathaway Inc. New,Finance,21.76538,703.4243044,Large Cap
+TRV,"The Travelers Companies, Inc.",Finance,21.69784,44.99238437,Large Cap
+NI,NiSource Inc,Utilities,21.54771,11.33114789,Large Cap
+TRMB,Trimble Inc.,Electronic Technology,21.54342,13.35226083,Large Cap
+K,Kellogg Company,Consumer Non-Durables,21.52013,23.97158784,Large Cap
+ATO,Atmos Energy Corporation,Utilities,21.35002,16.39800838,Large Cap
+RTX,Raytheon Technologies Corporation,Electronic Technology,21.26487,148.0057209,Large Cap
+LHX,"L3Harris Technologies, Inc.",Electronic Technology,21.25913,38.0329596,Large Cap
+AZO,"AutoZone, Inc.",Retail Trade,21.25376,44.8531102,Large Cap
+IR,Ingersoll Rand Inc.,Producer Manufacturing,21.17786,23.23868859,Large Cap
+IFF,"International Flavors & Fragrances, Inc.",Consumer Non-Durables,21.15845,29.47363568,Large Cap
+MAS,Masco Corporation,Producer Manufacturing,21.09192,11.69819568,Large Cap
+ANSS,"ANSYS, Inc.",Technology Services,21.07946,21.94967022,Large Cap
+MCO,Moody’s Corporation,Commercial Services,20.94734,57.23167793,Large Cap
+CLX,Clorox Company (The),Consumer Non-Durables,20.88437,17.62181749,Large Cap
+ALB,Albemarle Corporation,Process Industries,20.8243,28.49273179,Large Cap
+UNP,Union Pacific Corporation,Transportation,20.70674,131.9915943,Large Cap
+MTD,"Mettler-Toledo International, Inc.",Health Technology,20.70373,34.24855591,Large Cap
+HBAN,Huntington Bancshares Incorporated,Finance,20.689,21.13605626,Large Cap
+PKG,Packaging Corporation of America,Process Industries,20.64994,12.58191298,Large Cap
+DHR,Danaher Corporation,Health Technology,20.64223,198.2315231,Large Cap
+AVGO,Broadcom Inc.,Electronic Technology,20.62514,243.1846607,Large Cap
+HAL,Halliburton Company,Energy Minerals,20.62452,38.29232991,Large Cap
+FDX,FedEx Corporation,Transportation,20.58651,48.43248714,Large Cap
+JPM,JP Morgan Chase & Co.,Finance,20.44278,409.1527925,Large Cap
+HON,Honeywell International Inc.,Electronic Technology,20.39798,145.2081601,Large Cap
+LVS,Las Vegas Sands Corp.,Consumer Services,20.38799,40.8828949,Large Cap
+HES,Hess Corporation,Energy Minerals,20.3809,46.47133462,Large Cap
+OXY,Occidental Petroleum Corporation,Energy Minerals,20.31586,59.75201254,Large Cap
+DAL,"Delta Air Lines, Inc.",Transportation,20.2657,25.39105786,Large Cap
+CZR,"Caesars Entertainment, Inc.",Consumer Services,20.24802,10.12966616,Large Cap
+TPR,"Tapestry, Inc.",Retail Trade,20.23401,10.38543182,Large Cap
+SWK,"Stanley Black & Decker, Inc.",Consumer Durables,20.13713,13.17043347,Large Cap
+DFS,Discover Financial Services,Finance,19.9932,28.97832116,Large Cap
+PWR,"Quanta Services, Inc.",Industrial Services,19.91725,21.12221916,Large Cap
+AMZN,"Amazon.com, Inc.",Retail Trade,19.82644,971.9115706,Large Cap
+HST,Host Hotels,Finance,19.79129,12.44148294,Large Cap
+MMM,3M Company,Health Technology,19.70763,71.49730007,Large Cap
+PHM,"PulteGroup, Inc.",Consumer Durables,19.69075,11.4616103,Large Cap
+CHD,"Church & Dwight Company, Inc.",Consumer Non-Durables,19.52975,19.84844463,Large Cap
+EXC,Exelon Corporation,Utilities,19.47202,43.10852921,Large Cap
+BXP,"Boston Properties, Inc.",Finance,19.4473,11.16407099,Large Cap
+WYNN,"Wynn Resorts, Limited",Consumer Services,19.32431,11.17385328,Large Cap
+BK,The Bank of New York Mellon Corporation,Finance,19.10664,38.92676021,Large Cap
+ODFL,"Old Dominion Freight Line, Inc.",Transportation,19.05228,34.6083701,Large Cap
+DOW,Dow Inc.,Process Industries,18.95485,41.18399323,Large Cap
+VRSN,"VeriSign, Inc.",Technology Services,18.93197,22.57514453,Large Cap
+MCHP,Microchip Technology Incorporated,Electronic Technology,18.89464,41.38265093,Large Cap
+GS,"Goldman Sachs Group, Inc. (The)",Finance,18.85321,125.2744783,Large Cap
+LEN,Lennar Corporation,Consumer Durables,18.85309,28.24747044,Large Cap
+HLT,Hilton Worldwide Holdings Inc.,Consumer Services,18.75074,36.51156326,Large Cap
+IQV,"IQVIA Holdings, Inc.",Health Services,18.73239,40.76993456,Large Cap
+FISV,"Fiserv, Inc.",Finance,18.64742,65.0395744,Large Cap
+TJX,"TJX Companies, Inc. (The)",Retail Trade,18.58387,94.65889788,Large Cap
+CCL,Carnival Corporation,Consumer Services,18.58285,12.73175865,Large Cap
+VZ,Verizon Communications Inc.,Communications,18.56562,175.5943705,Large Cap
+HCA,"HCA Healthcare, Inc.",Health Services,18.47902,72.13515785,Large Cap
+NEE,"NextEra Energy, Inc.",Utilities,18.41671,169.0480047,Large Cap
+STZ,"Constellation Brands, Inc.",Consumer Non-Durables,18.31871,41.18873988,Large Cap
+PEAK,"Healthpeak Properties, Inc.",Finance,18.27043,14.82219537,Large Cap
+AMGN,Amgen Inc.,Health Technology,18.21742,144.5572739,Large Cap
+ZTS,Zoetis Inc.,Health Technology,18.1789,74.52957378,Large Cap
+AMT,American Tower Corporation (REIT),Finance,18.12644,108.1182774,Large Cap
+KIM,Kimco Realty Corporation (HC),Finance,17.93725,13.42109419,Large Cap
+NXPI,NXP Semiconductors N.V.,Electronic Technology,17.84144,44.10734578,Large Cap
+IP,International Paper Company,Process Industries,17.79763,13.4514398,Large Cap
+SYK,Stryker Corporation,Health Technology,17.79039,97.01051529,Large Cap
+HOLX,"Hologic, Inc.",Health Technology,17.65813,19.63474395,Large Cap
+CE,Celanese Corporation Celanese Corporation,Process Industries,17.6348,13.18919038,Large Cap
+CMI,Cummins Inc.,Producer Manufacturing,17.6339,35.27113161,Large Cap
+AJG,Arthur J. Gallagher & Co.,Finance,17.54294,41.11169204,Large Cap
+ROK,"Rockwell Automation, Inc.",Electronic Technology,17.54287,32.29069007,Large Cap
+PCG,Pacific Gas & Electric Co.,Utilities,17.2588,31.7435707,Large Cap
+REG,Regency Centers Corporation,Finance,17.20494,11.42724658,Large Cap
+EA,Electronic Arts Inc.,Technology Services,17.19141,34.90206226,Large Cap
+GD,General Dynamics Corporation,Electronic Technology,17.00607,68.00578169,Large Cap
+DRI,"Darden Restaurants, Inc.",Consumer Services,16.99548,18.09757765,Large Cap
+HWM,Howmet Aerospace Inc.,Electronic Technology,16.81523,16.82566775,Large Cap
+PH,Parker-Hannifin Corporation,Producer Manufacturing,16.80712,40.47091742,Large Cap
+RSG,"Republic Services, Inc.",Industrial Services,16.76698,38.95343556,Large Cap
+PLD,"Prologis, Inc.",Finance,16.57381,115.3327626,Large Cap
+WMB,"Williams Companies, Inc. (The)",Energy Minerals,16.2917,40.15648014,Large Cap
+DXC,DXC Technology Company,Technology Services,16.20362,6.630479457,Medium Cap
+KR,Kroger Company (The),Retail Trade,16.20107,32.69158484,Large Cap
+AMCR,Amcor plc,Process Industries,16.06955,18.166038,Large Cap
+CSGP,"CoStar Group, Inc.",Technology Services,16.04132,32.66534577,Large Cap
+CF,"CF Industries Holdings, Inc.",Process Industries,16.03836,16.93311254,Large Cap
+APA,APA Corporation,Energy Minerals,15.84089,14.58056011,Large Cap
+EW,Edwards Lifesciences Corporation,Health Technology,15.79581,48.06975372,Large Cap
+ZBRA,Zebra Technologies Corporation,Electronic Technology,15.74858,15.12752996,Large Cap
+SYY,Sysco Corporation,Transportation,15.65739,40.66809325,Large Cap
+HII,"Huntington Ingalls Industries, Inc.",Electronic Technology,15.55845,9.116760447,Medium Cap
+J,Jacobs Solutions Inc.,Industrial Services,15.54116,16.18345115,Large Cap
+APD,"Air Products and Chemicals, Inc.",Process Industries,15.46531,68.82503966,Large Cap
+GRMN,Garmin Ltd.,Electronic Technology,15.38892,18.81181605,Large Cap
+DVA,DaVita Inc.,Health Services,15.34495,7.047621991,Medium Cap
+POOL,Pool Corporation,Distribution Services,15.23545,13.54236388,Large Cap
+MRK,"Merck & Company, Inc.",Health Technology,15.09938,283.381202,Large Cap
+PAYC,"Paycom Software, Inc.",Technology Services,15.07742,18.2629971,Large Cap
+F,Ford Motor Company,Consumer Durables,15.06095,53.99523787,Large Cap
+IEX,IDEX Corporation,Producer Manufacturing,14.99348,17.81823772,Large Cap
+BALL,Ball Corporation,Process Industries,14.96627,17.94053797,Large Cap
+NTRS,Northern Trust Corporation,Finance,14.95603,20.28509702,Large Cap
+ELV,"Elevance Health, Inc.",Health Services,14.88768,113.9398566,Large Cap
+SPG,"Simon Property Group, Inc.",Finance,14.79798,41.1918969,Large Cap
+SLB,Schlumberger N.V.,Industrial Services,14.77392,82.24363892,Large Cap
+CINF,Cincinnati Financial Corporation,Finance,14.68086,16.96490273,Large Cap
+GM,General Motors Company,Consumer Durables,14.67828,54.45531008,Large Cap
+DGX,Quest Diagnostics Incorporated,Health Services,14.52197,16.86901097,Large Cap
+TFC,Truist Financial Corporation,Finance,14.31983,62.59683139,Large Cap
+GOOGL,Alphabet Inc.,Technology Services,14.27945,1184.242673,Large Cap
+XOM,Exxon Mobil Corporation,Energy Minerals,14.27901,466.2731902,Large Cap
+CVX,Chevron Corporation,Energy Minerals,14.25038,342.4087179,Large Cap
+ULTA,"Ulta Beauty, Inc.",Retail Trade,14.18322,25.02468736,Large Cap
+WBA,"Walgreens Boots Alliance, Inc.",Retail Trade,14.11286,31.61937965,Large Cap
+IT,"Gartner, Inc.",Technology Services,14.0871,26.54666059,Large Cap
+BLK,"BlackRock, Inc.",Finance,14.06543,113.2414567,Large Cap
+PPG,"PPG Industries, Inc.",Process Industries,14.06263,30.93430386,Large Cap
+QCOM,QUALCOMM Incorporated,Electronic Technology,14.01014,136.3023859,Large Cap
+XEL,Xcel Energy Inc.,Utilities,13.9929,39.37452604,Large Cap
+MGM,MGM Resorts International,Consumer Services,13.80668,14.94991017,Large Cap
+TDY,Teledyne Technologies Incorporated,Electronic Technology,13.76059,19.50446847,Large Cap
+WMT,Walmart Inc.,Retail Trade,13.69223,390.5236085,Large Cap
+MAR,Marriott International,Consumer Services,13.66889,50.64317423,Large Cap
+EOG,"EOG Resources, Inc.",Energy Minerals,13.63957,76.62496192,Large Cap
+MMC,"Marsh & McLennan Companies, Inc.",Finance,13.56824,86.38501476,Large Cap
+COF,Capital One Financial Corporation,Finance,13.54764,38.55918597,Large Cap
+HPQ,HP Inc.,Electronic Technology,13.45042,28.04026221,Large Cap
+CBRE,CBRE Group Inc,Finance,13.31506,27.05467063,Large Cap
+USB,U.S. Bancorp,Finance,13.24462,70.71033994,Large Cap
+FAST,Fastenal Company,Distribution Services,13.23278,28.07668996,Large Cap
+CL,Colgate-Palmolive Company,Consumer Non-Durables,13.19065,64.17785395,Large Cap
+WBD,"Warner Bros. Discovery, Inc. – Series A",Consumer Services,13.11824,31.93340642,Large Cap
+NOW,"ServiceNow, Inc.",Technology Services,12.98364,83.64382345,Large Cap
+CMS,CMS Energy Corporation,Utilities,12.88762,18.67478604,Large Cap
+CFG,"Citizens Financial Group, Inc.",Finance,12.8634,20.60089804,Large Cap
+CAT,"Caterpillar, Inc.",Producer Manufacturing,12.8322,132.74082,Large Cap
+PGR,Progressive Corporation (The),Finance,12.65933,77.77916763,Large Cap
+MET,"MetLife, Inc.",Finance,12.65874,56.01303622,Large Cap
+FCX,"Freeport-McMoRan, Inc.",Non-Energy Minerals,12.51018,64.46265772,Large Cap
+COST,Costco Wholesale Corporation,Retail Trade,12.35933,214.0681948,Large Cap
+AVB,"AvalonBay Communities, Inc.",Finance,12.16099,23.82032049,Large Cap
+WM,"Waste Management, Inc.",Industrial Services,12.13874,62.67163777,Large Cap
+PNR,Pentair plc.,Producer Manufacturing,12.02448,8.201887934,Medium Cap
+HSY,The Hershey Company,Consumer Non-Durables,11.96477,45.97746249,Large Cap
+JKHY,"Jack Henry & Associates, Inc.",Technology Services,11.93538,13.24688716,Large Cap
+CVS,CVS Health Corporation,Retail Trade,11.82664,117.1795702,Large Cap
+HD,"Home Depot, Inc. (The)",Retail Trade,11.78849,336.1988723,Large Cap
+BDX,"Becton, Dickinson and Company",Health Technology,11.67738,72.37462813,Large Cap
+CNC,Centene Corporation,Health Services,11.66652,44.27018388,Large Cap
+FOX,Fox Corporation,Consumer Services,11.65651,17.00933152,Large Cap
+CPRT,"Copart, Inc.",Commercial Services,11.60842,29.79732789,Large Cap
+ARE,"Alexandria Real Estate Equities, Inc.",Finance,11.54435,25.57792605,Large Cap
+NWL,Newell Brands Inc.,Producer Manufacturing,11.32794,6.261904234,Medium Cap
+SPGI,S&P Global Inc.,Commercial Services,11.25278,119.8194579,Large Cap
+MRNA,"Moderna, Inc.",Health Technology,11.23486,72.24898031,Large Cap
+GIS,"General Mills, Inc.",Consumer Non-Durables,11.21353,48.66057182,Large Cap
+BAC,Bank of America Corporation,Finance,11.10245,276.5332453,Large Cap
+ROST,"Ross Stores, Inc.",Retail Trade,11.06967,40.89405651,Large Cap
+DLR,"Digital Realty Trust, Inc.",Finance,11.01598,30.84538962,Large Cap
+CTVA,"Corteva, Inc.",Process Industries,11.01209,44.71291094,Large Cap
+LW,"Lamb Weston Holdings, Inc.",Consumer Non-Durables,10.9741,13.96407914,Large Cap
+CME,CME Group Inc.,Finance,10.91994,63.56531291,Large Cap
+PEP,"PepsiCo, Inc.",Consumer Non-Durables,10.90356,242.1737265,Large Cap
+CHTR,"Charter Communications, Inc.",Consumer Services,10.63776,60.00699704,Large Cap
+ILMN,"Illumina, Inc.",Health Technology,10.59455,30.47687559,Large Cap
+VLO,Valero Energy Corporation,Energy Minerals,10.52708,52.16901374,Large Cap
+CPB,Campbell Soup Company,Consumer Non-Durables,10.442,16.38985941,Large Cap
+KLAC,KLA Corporation,Electronic Technology,10.40791,59.38989855,Large Cap
+EFX,"Equifax, Inc.",Commercial Services,10.36646,26.47226877,Large Cap
+EMR,Emerson Electric Company,Electronic Technology,10.12401,57.9867742,Large Cap
+MKC,"McCormick & Company, Incorporated",Consumer Non-Durables,10.06181,21.71478588,Large Cap
+CDNS,"Cadence Design Systems, Inc.",Technology Services,9.968025,46.10154789,Large Cap
+CHRW,"C.H. Robinson Worldwide, Inc.",Transportation,9.967156,11.00583498,Large Cap
+FDS,FactSet Research Systems Inc.,Technology Services,9.916734,15.83166645,Large Cap
+WRB,W.R. Berkley Corporation,Finance,9.763968,19.38772183,Large Cap
+LYV,"Live Nation Entertainment, Inc.",Consumer Services,9.706884,16.88886266,Large Cap
+ADM,Archer-Daniels-Midland Company,Process Industries,9.706447,48.0063179,Large Cap
+SHW,Sherwin-Williams Company (The),Process Industries,9.566949,63.16362169,Large Cap
+IPG,"Interpublic Group of Companies, Inc. (The)",Commercial Services,9.462649,13.95969328,Large Cap
+SO,Southern Company (The),Utilities,9.412565,76.57724439,Large Cap
+SCHW,Charles Schwab Corporation (The),Finance,9.218842,155.835401,Large Cap
+BMY,Bristol-Myers Squibb Company,Health Technology,9.211257,152.2330639,Large Cap
+WAT,Waters Corporation,Health Technology,9.181094,19.94312322,Large Cap
+AMAT,"Applied Materials, Inc.",Producer Manufacturing,9.1373,93.02420013,Large Cap
+CSX,CSX Corporation,Transportation,9.073652,68.30726191,Large Cap
+SIVB,SVB Financial Group,Finance,8.99762,15.00180969,Large Cap
+CRM,"Salesforce, Inc.",Technology Services,8.953536,149.6000061,Large Cap
+COO,"The Cooper Companies, Inc.",Health Technology,8.487729,17.24688924,Large Cap
+LUMN,"Lumen Technologies, Inc.",Communications,8.342456,6.248879853,Medium Cap
+WRK,Westrock Company,Process Industries,8.260808,9.51186419,Medium Cap
+RCL,D/B/A Royal Caribbean Cruises Ltd.,Consumer Services,7.87527,15.93356511,Large Cap
+ETSY,"Etsy, Inc.",Retail Trade,7.721385,16.54435269,Large Cap
+NEM,Newmont Corporation,Non-Energy Minerals,7.462996,42.3856515,Large Cap
+DISH,DISH Network Corporation,Consumer Services,7.384806,7.992435656,Medium Cap
+ADBE,Adobe Inc.,Technology Services,7.243091,160.1766479,Large Cap
+STT,State Street Corporation,Finance,7.197549,30.22486158,Large Cap
+ORCL,Oracle Corporation,Technology Services,7.192618,239.3733318,Large Cap
+NUE,Nucor Corporation,Non-Energy Minerals,7.1453,39.94642143,Large Cap
+FANG,"Diamondback Energy, Inc.",Energy Minerals,7.015428,25.57787409,Large Cap
+EMN,Eastman Chemical Company,Process Industries,6.749065,10.95032088,Large Cap
+ABBV,AbbVie Inc.,Health Technology,6.673334,269.1980991,Large Cap
+HAS,"Hasbro, Inc.",Consumer Durables,6.617113,9.098931742,Medium Cap
+DIS,Walt Disney Company (The),Consumer Services,6.420072,182.0127172,Large Cap
+ALK,"Alaska Air Group, Inc.",Transportation,6.252616,6.265788975,Medium Cap
+NKE,"Nike, Inc.",Consumer Non-Durables,5.977032,198.3146446,Large Cap
+RHI,Robert Half International Inc.,Commercial Services,5.793701,8.255653723,Medium Cap
+RF,Regions Financial Corporation,Finance,5.783025,20.89420458,Large Cap
+AOS,A.O. Smith Corporation,Producer Manufacturing,5.751754,9.38041764,Medium Cap
+OMC,Omnicom Group Inc.,Commercial Services,5.69769,17.20032462,Large Cap
+NWS,News Corporation,Consumer Services,5.516829,11.20991032,Large Cap
+CAG,"ConAgra Brands, Inc.",Consumer Non-Durables,5.339365,19.12686134,Large Cap
+APTV,Aptiv PLC,Producer Manufacturing,5.337718,27.54744381,Large Cap
+FRT,Federal Realty Investment Trust,Finance,5.19493,8.938206224,Medium Cap
+TROW,"T. Rowe Price Group, Inc.",Finance,5.163148,26.71968765,Large Cap
+LDOS,"Leidos Holdings, Inc.",Electronic Technology,5.058164,13.49262634,Large Cap
+NSC,Norfolk Southern Corporation,Transportation,5.038884,58.84396918,Large Cap
+PNW,Pinnacle West Capital Corporation,Utilities,5.017885,8.621283305,Medium Cap
+FRC,FIRST REPUBLIC BANK,Finance,4.988234,22.90114543,Large Cap
+IDXX,"IDEXX Laboratories, Inc.",Health Technology,4.85594,38.89995149,Large Cap
+WST,"West Pharmaceutical Services, Inc.",Health Technology,4.851051,18.3668422,Large Cap
+LH,Laboratory Corporation of America Holdings,Health Services,4.640119,22.35643778,Large Cap
+STE,STERIS plc (Ireland),Health Technology,4.420981,19.98754931,Large Cap
+GWW,"W.W. Grainger, Inc.",Distribution Services,4.328553,28.93002287,Large Cap
+AME,"AMETEK, Inc.",Producer Manufacturing,4.266303,33.42619694,Large Cap
+CDAY,Ceridian HCM Holding Inc.,Technology Services,4.186011,10.25245717,Large Cap
+LNT,Alliant Energy Corporation,Utilities,4.102193,14.00701822,Large Cap
+ECL,Ecolab Inc.,Process Industries,3.794955,43.68692984,Large Cap
+KMI,"Kinder Morgan, Inc.",Industrial Services,2.914372,42.45984394,Large Cap
+V,Visa Inc.,Commercial Services,0,461.0345336,Large Cap
+TSLA,"Tesla, Inc.",Consumer Durables,0,390.171884,Large Cap
+ABT,Abbott Laboratories,Health Technology,0,194.1643717,Large Cap
+LIN,Linde plc,Process Industries,0,162.6063686,Large Cap
+MS,Morgan Stanley,Finance,0,153.0055997,Large Cap
+GILD,"Gilead Sciences, Inc.",Health Technology,0,107.5137883,Large Cap
+MDT,Medtronic plc.,Health Technology,0,106.2148753,Large Cap
+CCI,Crown Castle Inc.,Finance,0,65.49851063,Large Cap
+ICE,Intercontinental Exchange Inc.,Finance,0,60.89888416,Large Cap
+ATVI,"Activision Blizzard, Inc",Technology Services,0,60.18388716,Large Cap
+D,"Dominion Energy, Inc.",Utilities,0,52.42134318,Large Cap
+KHC,The Kraft Heinz Company,Consumer Non-Durables,0,51.97378773,Large Cap
+AEP,"American Electric Power Company, Inc.",Utilities,0,49.54160202,Large Cap
+TT,Trane Technologies plc,Producer Manufacturing,0,41.54052599,Large Cap
+DD,"DuPont de Nemours, Inc.",Process Industries,0,37.1349733,Large Cap
+ABC,AmerisourceBergen Corporation,Distribution Services,0,33.91475499,Large Cap
+HIG,"Hartford Financial Services Group, Inc. (The)",Finance,0,24.25504402,Large Cap
+ACGL,Arch Capital Group Ltd.,Finance,0,23.32789103,Large Cap
+INVH,Invitation Homes Inc.,Finance,0,19.20438525,Large Cap
+JBHT,"J.B. Hunt Transport Services, Inc.",Transportation,0,18.60049726,Large Cap
+ROL,"Rollins, Inc.",Consumer Services,0,18.49233985,Large Cap
+ALGN,"Align Technology, Inc.",Health Technology,0,18.40170767,Large Cap
+TRGP,"Targa Resources, Inc.",Utilities,0,17.0709695,Large Cap
+NVR,"NVR, Inc.",Consumer Durables,0,15.76850572,Large Cap
+PTC,PTC Inc.,Technology Services,0,15.39940007,Large Cap
+SYF,Synchrony Financial,Finance,0,15.12918248,Large Cap
+TXT,Textron Inc.,Electronic Technology,0,14.91463426,Large Cap
+CBOE,"Cboe Global Markets, Inc.",Finance,0,13.12978965,Large Cap
+BWA,BorgWarner Inc.,Producer Manufacturing,0,10.44560699,Large Cap
+ZION,Zions Bancorporation N.A.,Finance,0,7.697833458,Medium Cap
+LNC,Lincoln National Corporation,Finance,0,5.335363865,Medium Cap
